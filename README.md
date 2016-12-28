@@ -1,36 +1,30 @@
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Aprendizagem de Máquinas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+Uma lista de incríveis frameworks de aprendizagem de máquinas, bibliotecas e software (por linguagem).
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)
-Also, a listed repository should be deprecated if:
+Para obter uma lista de livros de aprendizado de maquinas gratuitos disponíveis para download, vá [aqui](https://github.com/elieltavares/machine-learn/blob/master/books.md).
 
-* Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2~3 years).
-
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
-
-## Table of Contents
+## Índice
 
 <!-- MarkdownTOC depth=4 -->
 
 - [APL](#apl)
-    - [General-Purpose Machine Learning](#apl-general-purpose)
+    - [Uso Geral - Aprendizagem de Máquinas](#apl-general-purpose)
 - [C](#c)
-    - [General-Purpose Machine Learning](#c-general-purpose)
-    - [Computer Vision](#c-cv)
+    - [Uso Geral - Aprendizagem de Máquinas](#c-general-purpose)
+    - [Visão do Computador](#c-cv)
 - [C++](#cpp)
-    - [Computer Vision](#cpp-cv)
-    - [General-Purpose Machine Learning](#cpp-general-purpose)
-    - [Natural Language Processing](#cpp-nlp)
-    - [Sequence Analysis](#cpp-sequence)
-    - [Gesture Recognition](#cpp-gestures)
+    - [Visão do Computador](#cpp-cv)
+    - [Uso Geral - Aprendizagem de Máquinas](#cpp-general-purpose)
+    - [Processamento de linguagem natural](#cpp-nlp)
+    - [Análise de Seqüência](#cpp-sequence)
+    - [Reconhecimento de Gestos](#cpp-gestures)
 - [Common Lisp](#common-lisp)
-    - [General-Purpose Machine Learning](#common-lisp-general-purpose)
+    - [Uso Geral - Aprendizagem de Máquinas](#common-lisp-general-purpose)
 - [Clojure](#clojure)
-    - [Natural Language Processing](#clojure-nlp)
-    - [General-Purpose Machine Learning](#clojure-general-purpose)
-    - [Data Analysis / Data Visualization](#clojure-data-analysis)
+    - [Processamento de linguagem natural](#clojure-nlp)
+    - [Uso Geral - Aprendizagem de Máquinas](#clojure-general-purpose)
+    - [Análise de Dados / Visualização de Dados](#clojure-data-analysis)
 - [Elixir](#elixir)
     - [General-Purpose Machine Learning](#elixir-general-purpose)
     - [Natural Language Processing](#elixir-nlp)
